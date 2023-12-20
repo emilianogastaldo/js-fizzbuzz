@@ -18,3 +18,10 @@ body {
 .bg-fizz {
     background-color: #0BD6A1;
 }
+
+.square {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
