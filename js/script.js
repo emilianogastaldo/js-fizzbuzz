@@ -4,7 +4,7 @@ console.log('JS OK')
 
 for (let i = 1; i <= 100; i++) {
     let flag = i;
-    if (i % 3 == 0 && i % 5 == 0) {
+    if (i % 15 == 0) {
         flag = 'BuzzFizz';
     } else if (i % 3 == 0) {
         flag = 'Fizz';
