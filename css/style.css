@@ -1,3 +1,20 @@
 body {
     background-color: #083B4C;
 }
+
+.bg-normal {
+    background-color: #1389B2;
+}
+
+.bg-fizzbuzz {
+    background-color: #F0466F;
+
+}
+
+.bg-buzz {
+    background-color: #FFD166;
+}
+
+.bg-fizz {
+    background-color: #0BD6A1;
+}
