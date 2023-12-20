@@ -27,3 +27,9 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 Come abbiamo visto puoi  usare varie tecniche (style , className, classList)
  Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
 Buon lavoro e buon divertimento!
+
+//SCALETTA
+1 - INIZIO CON FAR STAMPARE IN CONSOLE I NUMERI DA 1 A 100
+2 - CON L'OPERAZIONE % CONTROLLO SE è MULTIPLO DI 3 E STAMPO FIZZ
+3 - CON L'OPERAZIONE % CONTROLLO SE è MULTIPLO DI 5 E STAMPO BUZZ
+4 - PER AGGIUNGERE AI MULTIPLI SIA DI 3 E DI 5 BASTA CHE USO =+
